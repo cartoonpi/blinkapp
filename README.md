@@ -8,3 +8,4 @@ The way blink app works is it prompts you to blink gently at regular intervals.
 You can visit sample page here : https://cartoonpi.github.io/blinkapp/
 and you can find code in blinkapp.js file
 
+The next step in the project will be to wrap this into a chrome/ firefox extension and add some basic controls
